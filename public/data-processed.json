@@ -1,6 +1,34 @@
 {
-  "updatedAt": 1657977842492,
+  "updatedAt": 1675481326393,
   "positions": [
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "360",
+        "website": "http://360campus.zhiye.com/jobs",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "4399",
+        "website": "http://web.4399.com/campus/yjsgw/cehualei/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw",
+        "date": "2022-08-02",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
     {
       "graduationYear": 2023,
       "type": "实习生",
@@ -12,7 +40,35 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/ImsLgsFI5o28pjWJObqDFg",
         "date": "2022-02-28",
-        "title": "阿里巴巴春季2023届校园招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "阿里巴巴",
+        "website": "https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Ftalent.alibaba.com%2Fcampus%2Fhome",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/icpSIIt0Z_oxJqNc8w3AEw",
+        "date": "2022-08-18",
+        "title": "阿里巴巴秋季2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Akuna Capital",
+        "website": "https://akunacapital.com/careers#careers",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/WIOlc2eBGrfmMUstKAHZ4A",
+        "date": "2022-08-19",
+        "title": "2023 Akuna Capital校园招聘正式启动！"
       }
     },
     {
@@ -26,7 +82,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/G_zZHWShta2ioKs16hVmvQ",
         "date": "2022-03-07",
-        "title": "百度2022春季实习生招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -54,7 +110,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw",
         "date": "2022-07-14",
-        "title": "百度2023届校园招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -69,6 +125,48 @@
         "url": "https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ",
         "date": "2022-04-18",
         "title": "哔哩哔哩游戏2022春季实习招聘 Q&A"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "哔哩哔哩",
+        "website": "https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jqwevXb8MJb7tYSZN_lEKQ",
+        "date": "2022-08-10",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "比亚迪(BYD)",
+        "website": "http://job.byd.com/zpweb/zpweb/bulletinEdit.do?planId=OGE4OTcxYmU4MjIzZmZlMjAxODIyNTgyM2FiMTA5NGI-&actPara=findSchoolBulletin",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/NqZ0y43jb1K_3AiMW9AFig",
+        "date": "2022-11-01",
+        "title": "比亚迪2023届秋招行程（第八批）"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "传音控股",
+        "website": "https://transsion.m.zhiye.com/xzzw.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/68OJpWSBQaHFJQ6RkzUB4Q",
+        "date": "2022-07-29",
+        "title": "传音控股2023届全球校园招聘正式启动"
       }
     },
     {
@@ -101,6 +199,104 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "地平线",
+        "website": "https://horizon.hotjob.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA",
+        "date": "2022-07-28",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "eBay",
+        "website": "https://jobs.ebayinc.com/search-jobs/2023%20RCG/403/1",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/h_rQsW6VP9x16-BQKwD9CA",
+        "date": "2022-09-01",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "飞腾",
+        "website": "https://www.phytium.com.cn/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/Uc-y7ssMcdSs_G-g5MJVfg",
+        "date": "2022-09-02",
+        "title": "飞腾2023届秋季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "FunPlus",
+        "website": "https://app.mokahr.com/su/qumjtz",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FGYHAHXBhddNc16PV6Kl-w",
+        "date": "2022-09-05",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "高通",
+        "website": "https://nowpick.nowcoder.com/w/company-project?dockSourceProjectId=106936",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/9nLxqfUHnrkKDkf6hoT3mw",
+        "date": "2022-08-31",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "广汽丰田",
+        "website": "https://gac-toyota.m.zhiye.com/JobAd/Info?adid=620661636",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "海尔",
+        "website": "http://vta.maker.haier.net/client/campusmobile/activity/id/18.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer_sharetime=1658048425410&sharer_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd",
+        "date": "2022-06-06",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "海康威视",
@@ -110,7 +306,63 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/JRnyR4_5Mox4Y5KlbbVwyQ",
         "date": "2022-04-01",
-        "title": "海康威视2023届超新星实习生招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "海康威视",
+        "website": "https://campushr.hikvision.com/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw",
+        "date": "2022-07-27",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "海康威视",
+        "website": "https://campushr.hikvision.com/home",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/fkLtyFYWbwz1NeKk7mRLbA",
+        "date": "2022-08-02",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "寒武纪",
+        "website": "https://app.mokahr.com/campus_apply/cambricon/1112#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/JToWHkUG7BjHebh7i_xaqA",
+        "date": "2022-07-29",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Hotstar",
+        "website": "https://jobs.lever.co/hotstar?location=Beijing",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/ZLAGxQESK0_0_LuXEyr1dw",
+        "date": "2022-09-09",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -152,7 +404,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/DsiVv7iNy_02-IBV1Cn4Ew",
         "date": "2022-06-17",
-        "title": "华为2012实验室2022年顶尖人才招聘公告"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -166,7 +418,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/PPMHKBu-NSshfT4AGFvFrA",
         "date": "2022-06-21",
-        "title": "顶尖人才招聘|华为中央软件院"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -194,7 +446,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/BvvGqy91sUDrda0Rzbd1Xw",
         "date": "2022-06-30",
-        "title": "官宣｜华为终端2023届校招启动"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -208,7 +460,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/a-C-P-d1xBVdVy6meoe0cQ",
         "date": "2022-05-07",
-        "title": "华为计算产品线面向全球招募天才少年"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -222,7 +474,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/EhaRtWKqXLfJ975RSAewJg",
         "date": "2022-06-16",
-        "title": "华为计算产品线2023届顶尖招聘正式启动"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -236,7 +488,91 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/RyvQZPNZJUQto3hFcwLKgQ",
         "date": "2022-02-25",
-        "title": "Hulu 2022暑期实习项目招聘来啦"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Hulu",
+        "website": "https://chinajobs.disneycareers.cn/%e6%b1%82%e8%81%8c/hulu/3333/1?glat=40.73569869995117&glon=-74.17240142822266",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/wHOlSyjl63B7mybQn0DUyQ",
+        "date": "2022-08-26",
+        "title": "2023 Hulu/Disney Streaming与广告北京研发中心秋季校园招聘开始啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "IBM",
+        "website": "http://ibm2023.kongxuan.com/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/mZytr26ptFhE9bFanK_pvQ",
+        "date": "2022-09-20",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "吉利",
+        "website": "https://campus.geely.com",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-6LYDJ_3QxBu0BP_aLaWmQ",
+        "date": "2022-08-01",
+        "title": "吉利 2023 全球校园招聘全面启动！快和杨倩一起成为吉利同路人~"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "佳期投资",
+        "website": "https://www.jqinvestments.com/careers",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/vJfNh3PdKM_XtrKtYWf9og",
+        "date": "2022-08-24",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "交通银行",
+        "website": "https://job.bankcomm.com/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/G-lmDqlsW1yblApEyHlcsw",
+        "date": "2022-08-08",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "金山云",
+        "website": "https://campus.ksyun.com/campus_apply/kingsoft/39364/#",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/rmVrdMIYFPho30v-npF-WA",
+        "date": "2022-10-19",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -251,6 +587,20 @@
         "url": "https://mp.weixin.qq.com/s/L3oZpuBwoybBRxpOTbjwkg",
         "date": "2022-03-07",
         "title": "京东2022暑期实习生招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "京东",
+        "website": "https://campus.jd.com/api/wx/position/index?type=present",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -278,7 +628,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/JzYmFsh4Yyyu_O0lgo2LNw",
         "date": "2022-07-12",
-        "title": "科大讯飞2023届秋季校园招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "快手",
+        "website": "https://campus.kuaishou.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA",
+        "date": "2022-07-28",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -292,7 +656,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/46P9j8JbUXoMqwmPwjWejA",
         "date": "2022-07-11",
-        "title": "旷视科技2023校园招聘提前批正式启动！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -306,7 +670,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/cTPtXMqEKEVb40uXUprYlw",
         "date": "2022-03-16",
-        "title": "旷视科技2022春季校园招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -325,6 +689,48 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "联想中国",
+        "website": "https://talent.lenovo.com.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg",
+        "date": "2022-07-15",
+        "title": "联想中国2023校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "龙湖集团",
+        "website": "https://app.mokahr.com/campus-recruitment/longfor/74084#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2hbzUsyYZC57WAm-GiVm_Q",
+        "date": "2022-08-09",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "蚂蚁集团",
+        "website": "https://talent.antgroup.com/home?chInfo=ch_official",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/x8Ttp0GYWdGNm6UARGjDrw",
+        "date": "2022-09-09",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "美的",
@@ -339,6 +745,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "美的",
+        "website": "http://www.wjx.top/vm/PqrvaMT.aspx",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/LHB-Ig926nhAkTggoceEGA",
+        "date": "2022-07-04",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "美团",
@@ -349,6 +769,20 @@
         "url": "https://mp.weixin.qq.com/s/p9_jPgRcDnz0iOOVedIAQA",
         "date": "2022-02-23",
         "title": "美团春招启动! 1万+offer等你拿！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "美团",
+        "website": "https://campus.meituan.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -383,6 +817,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "Momenta",
+        "website": "https://momenta.jobs.feishu.cn/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw",
+        "date": "2022-07-29",
+        "title": "Momenta 2023届校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "OPPO",
         "website": "https://careers.oppo.com/campus",
         "type": "私企"
@@ -390,7 +838,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ",
         "date": "2022-07-01",
-        "title": "OPPO 2023届校园招聘提前批专场启动"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "OPPO",
+        "website": "https://careers.oppo.com/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/Ft9yhpIXsI0Uxi6R8yR79A",
+        "date": "2022-08-19",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -404,7 +866,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/qRd_flyPkWD8XS5UB-8X4A",
         "date": "2022-03-18",
-        "title": "PayPal 2022暑期实习正式启动"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "PayPal",
+        "website": "https://paypal.eightfold.ai/careers?query=Recent%20Graduate&location=Shanghai%2C%20Shanghai%2C%20China&pid=274889961056&domain=paypal.com&triggerGoButton=true",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/yvIcZfXbTaJmv5tXaO4MHw",
+        "date": "2022-07-01",
+        "title": "校招 | 除了Offer, PayPal还能给你什么？"
       }
     },
     {
@@ -423,6 +899,48 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "苹果",
+        "website": "https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/D80tvKArO9CecDVsccISCQ",
+        "date": "2022-09-05",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "去哪儿旅行",
+        "website": "https://campus.qunar.com",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/srsxEdf-RPlKFTaHKq_dWQ",
+        "date": "2022-08-05",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "荣耀",
+        "website": "https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A",
+        "date": "2022-07-26",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "商汤科技",
@@ -432,7 +950,77 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/Q-c3dYr8N0nVRhBzalyrug",
         "date": "2022-03-07",
-        "title": "商汤科技2022春季校园招聘正式启动"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "深信服科技",
+        "website": "https://hr.sangfor.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g",
+        "date": "2022-07-25",
+        "title": "深信服2023届校园招聘提前批正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Shopee",
+        "website": "https://app.mokahr.com/campus_apply/shopee/2962#/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ",
+        "date": "2022-07-18",
+        "title": "Shopee研发中心2023校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "收钱吧",
+        "website": "https://jobs.shouqianba.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/uARBS79kTH2zi-dbS62jKA",
+        "date": "2022-09-09",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "搜狐",
+        "website": "https://hr.sohu.com/social-recruitment/sohu/43256#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/DSuXGHY5FA2X5eqtBU3QrQ",
+        "date": "2022-08-03",
+        "title": "搜狐集团2023秋季校园招聘正式启动啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "特斯拉",
+        "website": "https://app.mokahr.com/campus_apply/tesla/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0#/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/YeY1MVQc9bwIP7QhdDgaow",
+        "date": "2022-07-27",
+        "title": "无畏，才有为！特斯拉2023秋季校园招聘正式启动"
       }
     },
     {
@@ -446,7 +1034,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/UezGc383DBV9cjMjYbNCzg",
         "date": "2022-04-11",
-        "title": "腾讯2022实习生招聘全球启动"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -454,13 +1042,27 @@
       "type": "全职（秋季）",
       "company": {
         "name": "腾讯",
+        "website": "https://join.qq.com/post.html?query=p_1",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2prApBfwKBBE4BxIcOg4qw",
+        "date": "2022-09-15",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "腾讯-技术大咖专项",
         "website": "https://join.qq.com/post.html?query=p_8",
         "type": "私企"
       },
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ",
         "date": "2022-06-15",
-        "title": "腾讯2023校园招聘技术大咖招募启动"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -474,7 +1076,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/qlHPELwiYya9LzuZg51ucQ",
         "date": "2022-03-22",
-        "title": "腾讯音乐娱乐集团2022暑期实习生招聘全球启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "腾讯音乐",
+        "website": "https://join.tencentmusic.com/campus/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/dE28r8lUsWoP4OfNzSCMOg",
+        "date": "2022-08-22",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -493,6 +1109,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "TP-LINK",
+        "website": "https://hr.tp-link.com.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/vt76qeBy9YEQ-Yoj7acmYg",
+        "date": "2022-08-24",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "图森未来",
@@ -507,6 +1137,34 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Unity",
+        "website": "https://unity.cn/campus",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/QT7Ja_aqMm1yhyx2RNnHHg",
+        "date": "2022-08-31",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "完美世界",
+        "website": "https://jobs.games.wanmei.com/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/4YNUK5Wa0pVCPZOqr8tNFQ",
+        "date": "2022-08-02",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "网易",
@@ -516,7 +1174,35 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/0eIEalTM4h3T9_7iUANfdQ",
         "date": "2022-03-01",
-        "title": "2023届网易互联网精英实习生招聘全面启动"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "网易互联网",
+        "website": "https://campus.163.com/app/net/position",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FvhPCULRXmw-04gF4bpnaQ",
+        "date": "2022-08-02",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "网易游戏互娱",
+        "website": "https://game.campus.163.com/position/12/?sc=1",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/6ATQsmddGiJ3wRRlfxncuw",
+        "date": "2022-07-26",
+        "title": "网易游戏（互娱）2023校园招聘启动！"
       }
     },
     {
@@ -530,7 +1216,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/h6PvUeRyuQy0WONDOeSptA",
         "date": "2022-07-05",
-        "title": "网易游戏雷火2023届秋季校园招聘全球开启！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -544,7 +1230,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/S0ta29gUPSAM0Pb8cSJL5Q",
         "date": "2022-06-20",
-        "title": "校招 | 蔚来2023届秋招研发提前批启动"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "蔚来",
+        "website": "https://campus.nio.com/#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -563,6 +1263,48 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "微软",
+        "website": "https://careers.microsoft.com/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg",
+        "date": "2022-08-01",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小红书",
+        "website": "https://job.xiaohongshu.com/m/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ",
+        "date": "2022-07-19",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小红书",
+        "website": "https://job.xiaohongshu.com/m/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/6IM9XkgfLCEU9BAPGbjz4g",
+        "date": "2022-08-22",
+        "title": "小红书2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "小马智行",
@@ -577,6 +1319,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小马智行",
+        "website": "https://app.mokahr.com/campus-recruitment/pony/42966/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/_vGUVFolSYJCDKihJevu7A",
+        "date": "2022-08-05",
+        "title": "小马智行Pony.ai 2023校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "小米",
@@ -586,7 +1342,35 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/u-8NOL8K65LAridlAEwJLw",
         "date": "2022-04-19",
-        "title": "小米春季实习生宣讲会最全预告！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小米",
+        "website": "https://hr.xiaomi.com/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/HRdoNhsIs6HcFPDgd_dwBQ",
+        "date": "2022-08-18",
+        "title": "小米集团2023全球校园招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "新浪",
+        "website": "https://career.sina.com.cn/campus-recruitment/sina/43536#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/SfzXi7dUZk7Xnfz-zEYY_A",
+        "date": "2022-08-22",
+        "title": "2023届新浪&微博 校园招聘正式启动"
       }
     },
     {
@@ -600,7 +1384,49 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
         "date": "2022-02-25",
-        "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "亚马逊",
+        "website": "https://www.amazon.jobs/zh/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg",
+        "date": "2022-08-08",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "依图科技",
+        "website": "https://app.mokahr.com/campus_apply/yitu-inc/3700#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-XqpFp6Qu_a8E3Iuck1Wng",
+        "date": "2022-08-05",
+        "title": "依图科技【2023届秋季校招】正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "鹰角",
+        "website": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/aTusLZxjI-mOleiMj1o5xg",
+        "date": "2022-08-02",
+        "title": "鹰角网络2023秋季校园招聘正式批招募开启！"
       }
     },
     {
@@ -614,7 +1440,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw",
         "date": "2022-06-28",
-        "title": "英特尔中国2023校园招聘“芯”动开启！"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -635,6 +1461,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "招银网络科技",
+        "website": "https://cmbnt.cmbchina.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/p0d4UAeaHZKOlA80qkhs_w",
+        "date": "2022-08-04",
+        "title": "招商银行·招银网络科技2023全球校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "哲库",
         "website": "https://app.mokahr.com/campus-recruitment/zeku",
         "type": "私企"
@@ -642,7 +1482,91 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/ZsgT5AhU83c2kGvZe3qDAg",
         "date": "2022-07-11",
-        "title": "ZEKU校招 | 2023届提前批空宣预告"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国电信天翼云",
+        "website": "https://ctyun.hotjob.cn",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-vTinwze72nK42XtnmAmKQ",
+        "date": "2022-08-09",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国农业银行研发中心",
+        "website": "https://career.abchina.com/build/index.html#/99",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/W1bEP5a-DZjktQeF3UpInA",
+        "date": "2022-09-04",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国人寿",
+        "website": "https://chinalife.hotjob.cn/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/iqj6TjEKQDiVikFl77JQXw",
+        "date": "2022-08-24",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国银行",
+        "website": "https://campus.chinahr.com/pages/2023-boc/#/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/K3-zb_MIBE7awqSyWWw1pA",
+        "date": "2022-09-08",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国邮政储蓄银行",
+        "website": "http://psbc2023.zhaopin.com/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/vyF06oErkFiMG6r0WuJoBQ",
+        "date": "2022-08-29",
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国中铁广州局",
+        "website": "http://www.crecg.com/web/10089120/index.html",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/F5VAJYplPZY2_hCREAbJUw",
+        "date": "2022-08-31",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -656,7 +1580,7 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ",
         "date": "2022-06-24",
-        "title": "中兴通讯2023届“未来领军”人才招聘正式启动"
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -684,7 +1608,21 @@
       "announcement": {
         "url": "https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA",
         "date": "2022-07-07",
-        "title": "字节跳动 2023 校园招聘研发提前批正式启动！"
+        "title": "Weixin Official Accounts Platform"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "字节跳动",
+        "website": "https://job.toutiao.com/campus/?spread=ZHMP9K6",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg",
+        "date": "2022-08-10",
+        "title": "Weixin Official Accounts Platform"
       }
     },
     {
@@ -699,6 +1637,20 @@
         "url": "https://mp.weixin.qq.com/s/Iq3bxmcYKWH6qK7iQY5__Q",
         "date": "2022-06-10",
         "title": "Zoom “视界星” 计划正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Zoom",
+        "website": "https://www.nowcoder.com/careers/zoom/102351",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ",
+        "date": "2022-07-20",
+        "title": "Zoom 2023届校园招聘正式启动"
       }
     }
   ]
